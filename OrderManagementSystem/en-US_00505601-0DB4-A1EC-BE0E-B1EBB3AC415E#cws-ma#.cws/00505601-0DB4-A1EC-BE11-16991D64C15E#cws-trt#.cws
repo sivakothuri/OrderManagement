@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0DB4-A1EC-BE11-16991D65015E">
+	<DocumentID>00505601-0DB4-A1EC-BE11-16991D64C15E</DocumentID>
+	<Name>00505601-0DB4-A1EC-BE11-16991D64C15E</Name>
+	<Description>OrderLineNumber</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-06-30T07:16:15.373</CreationDate>
+	<Notes/>
+	<Text>OrderLineNumber</Text>
+	<Language>
+		<uri
+			id="00505601-0DB4-A1EC-BE0E-B1EBB3ACC15E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0DB4-A1EC-BE11-16991D64415E"
+		/>
+	</TextIdentifier>
+</TranslatedText>
