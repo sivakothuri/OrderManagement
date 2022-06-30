@@ -625,17 +625,17 @@
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
 							typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-							RuntimeDocumentID="00505601-0DB4-A1EC-BE11-0E672DFB815E">
-							<DocumentID>00505601-0DB4-A1EC-BE11-0E672DFB415E</DocumentID>
-							<Name>00505601-0DB4-A1EC-BE11-0E672DFB415E</Name>
-							<Description>00505601-0DB4-A1EC-BE11-0E672DFB415E</Description>
+							RuntimeDocumentID="00505601-0DB4-A1EC-BE11-1F49BF58C15E">
+							<DocumentID>00505601-0DB4-A1EC-BE11-1F49BF58815E</DocumentID>
+							<Name>00505601-0DB4-A1EC-BE11-1F49BF58815E</Name>
+							<Description>00505601-0DB4-A1EC-BE11-1F49BF58815E</Description>
 							<CreatedBy>sysadmin</CreatedBy>
-							<CreationDate>2022-06-30T07:14:31.76</CreationDate>
+							<CreationDate>2022-06-30T07:22:31.402</CreationDate>
 							<Notes/>
-							<DeveloperText>Address</DeveloperText>
+							<DeveloperText>Addr</DeveloperText>
 							<Identifier>
 								<uri
-									id="00505601-0DB4-A1EC-BE11-0E672DFBC15E"
+									id="00505601-0DB4-A1EC-BE11-1F49BF59015E"
 								/>
 							</Identifier>
 						</TranslatableText>
