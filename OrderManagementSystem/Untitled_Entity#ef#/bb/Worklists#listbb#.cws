@@ -1,0 +1,19 @@
+
+<WorklistBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.worklist.WorklistBuildingBlock"
+	typeVersion="A1E48F22-80FF-4247-BE7C-B62A8B001962"
+	RuntimeDocumentID="48F17F44-149C-A1EC-BE14-12135D240013">
+	<DocumentID>48F17F44-149C-A1EC-BE14-12135D23C013</DocumentID>
+	<Name>Worklists</Name>
+	<Description>Worklists</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-06-30T08:54:30.346</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="48F17F44-149C-A1EC-BE14-12135D26C013"
+		/>
+	</Entity>
+	<Worklists/>
+</WorklistBuildingBlock>
