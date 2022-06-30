@@ -1,0 +1,13 @@
+
+<QualifiedNameRoot
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	typeVersion="9bd1dc20-2f5e-11e3-aa6e-0800200c9a66"
+	RuntimeDocumentID="00505601-0DB4-A1EC-BE10-FC6D5BE2C15E">
+	<DocumentID>00505601-0DB4-A1EC-BE10-FC6D5BE2815E</DocumentID>
+	<Name>runtimeQNR for project</Name>
+	<Description/>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-06-30T07:12:07.513</CreationDate>
+	<Notes/>
+</QualifiedNameRoot>
