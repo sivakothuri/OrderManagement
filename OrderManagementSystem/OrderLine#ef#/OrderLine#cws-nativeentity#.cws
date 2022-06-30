@@ -25,6 +25,9 @@
 		<uri
 			id="00505601-0DB4-A1EC-BE11-16991D59415E"
 		/>
+		<uri
+			id="00505601-0DB4-A1EC-BE11-C0166B3FC15E"
+		/>
 	</BuildingBlocks>
 	<DBObject/>
 	<DisplayName/>
@@ -916,6 +919,79 @@
 				</Title>
 			</Title>
 		</TitleBuildingBlock>
+		<RelationshipBuildingBlock
+			type="com.cordys.entity.buildingblocks.relationship.RelationshipBuildingBlock"
+			typeVersion="1FCC367D-DD5A-4E9C-8B4A-24BA4845ECB4"
+			RuntimeDocumentID="00505601-0DB4-A1EC-BE11-C0166B40015E">
+			<DocumentID>00505601-0DB4-A1EC-BE11-C0166B3FC15E</DocumentID>
+			<Name>Relationship</Name>
+			<Description>Relationship</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2022-06-30T07:34:49.616</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-0DB4-A1EC-BE11-0FF8340C815E"
+				/>
+			</Entity>
+			<InlinedEntities/>
+			<Relationships>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00505601-0DB4-A1EC-BE11-C0166B3F815E">
+					<DocumentID>00505601-0DB4-A1EC-BE11-C0166B3F415E</DocumentID>
+					<Name>CustomerToOL</Name>
+					<Description>CustomerToOL</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-06-30T07:34:49.615</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>false</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-C0166B3FC15E"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-C0166B3EC15E"
+						/>
+					</ForeignKeyProperties>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="00505601-0DB4-A1EC-BE11-C0166B3F015E">
+							<DocumentID>00505601-0DB4-A1EC-BE11-C0166B3EC15E</DocumentID>
+							<Name>CustomerToOL_Id</Name>
+							<Description>CustomerToOL_Id</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2022-06-30T07:34:49.615</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="00505601-0DB4-A1EC-BE11-0B7F763A415E"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="00505601-0DB4-A1EC-BE0E-B1EBB3A9015E"
+						/>
+					</Target>
+				</Relationship>
+			</Relationships>
+		</RelationshipBuildingBlock>
 	</OwnedBuildingBlocks>
 	<ParentRelationship/>
 	<Supertype/>
