@@ -777,6 +777,61 @@
 						/>
 					</TypeDefinition>
 				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="48F17F44-149C-A1EC-BE14-12135D2E0013">
+					<DocumentID>48F17F44-149C-A1EC-BE14-12135D2DC013</DocumentID>
+					<Name>Untitled_Property_2</Name>
+					<Description>Untitled_Property_2</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-06-30T08:41:13.928</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Text</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-0B7F762C015E"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition>
+						<SmallTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="48F17F44-149C-A1EC-BE14-12135D2D8013">
+							<DocumentID>48F17F44-149C-A1EC-BE14-12135D2D4013</DocumentID>
+							<Name>48F17F44-149C-A1EC-BE14-12135D2D4013</Name>
+							<Description>48F17F44-149C-A1EC-BE14-12135D2D4013</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2022-06-30T08:41:13.927</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<Length>64</Length>
+							<Pattern></Pattern>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75561F9D"
+								/>
+							</Type>
+						</SmallTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="48F17F44-149C-A1EC-BE14-12135D2D4013"
+						/>
+					</TypeDefinition>
+				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
 		<TitleBuildingBlock
