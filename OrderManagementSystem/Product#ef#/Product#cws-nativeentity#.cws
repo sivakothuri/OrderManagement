@@ -510,11 +510,7 @@
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<Type>
-								<uri
-									id="005056C0-0008-11E6-FAF9-068E75561F9D"
-								/>
-							</Type>
+							<Type/>
 						</SmallTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
@@ -583,11 +579,7 @@
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<Type>
-								<uri
-									id="005056C0-0008-11E6-FAF9-068E75561F9D"
-								/>
-							</Type>
+							<Type/>
 						</SmallTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
@@ -656,11 +648,7 @@
 							<Min></Min>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<Type>
-								<uri
-									id="005056C0-0008-11E6-FAF8-E91C59E85F9D"
-								/>
-							</Type>
+							<Type/>
 						</IntegerPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
@@ -729,11 +717,7 @@
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<Type>
-								<uri
-									id="005056C0-0008-11E6-FAF9-068E75561F9D"
-								/>
-							</Type>
+							<Type/>
 						</SmallTextPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
@@ -742,6 +726,93 @@
 							id="00505601-0DB4-A1EC-BE11-1B8380AC415E"
 						/>
 					</TypeDefinition>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="48F17F44-149C-A1EC-BE13-B9F360570013">
+					<DocumentID>48F17F44-149C-A1EC-BE13-B9F36056C013</DocumentID>
+					<Name>Untitled_Property</Name>
+					<Description>Untitled_Property</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-06-30T08:31:56.582</CreationDate>
+					<Notes/>
+					<ConflictLevel></ConflictLevel>
+					<DataType></DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-0B7F75FA415E"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition/>
+					<Tooltip/>
+					<TypeDefinition/>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="48F17F44-149C-A1EC-BE13-B9F360568013">
+					<DocumentID>48F17F44-149C-A1EC-BE13-B9F360564013</DocumentID>
+					<Name>Untitled_Property_1</Name>
+					<Description>Untitled_Property_1</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-06-30T08:31:56.583</CreationDate>
+					<Notes/>
+					<ConflictLevel></ConflictLevel>
+					<DataType></DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-0B7F75FA415E"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition/>
+					<Tooltip/>
+					<TypeDefinition/>
+				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="48F17F44-149C-A1EC-BE13-B9F360560013">
+					<DocumentID>48F17F44-149C-A1EC-BE13-B9F36055C013</DocumentID>
+					<Name>Untitled_Property_2</Name>
+					<Description>Untitled_Property_2</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-06-30T08:31:56.582</CreationDate>
+					<Notes/>
+					<ConflictLevel></ConflictLevel>
+					<DataType></DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00505601-0DB4-A1EC-BE11-0B7F75FA415E"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition/>
+					<Tooltip/>
+					<TypeDefinition/>
 				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
